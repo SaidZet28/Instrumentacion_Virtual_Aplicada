@@ -1,4 +1,4 @@
-# Instrumentación_virtual_aplicada
+# Instrumentación_Virtual_Aplicada
 
 | Nombre                           | Matrícula     |
 |----------------------------------|---------------|
